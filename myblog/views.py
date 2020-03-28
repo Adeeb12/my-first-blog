@@ -1,4 +1,4 @@
 from django.shortcuts import render,HttpResponse
 
 def home(request):
-    return HttpResponse('success')
+    return HttpResponse('succes')
